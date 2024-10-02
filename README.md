@@ -9,9 +9,7 @@ This project uses a WebSocket connection to Binance to retrieve real-time crypto
 - Easily switch between cryptocurrencies (ETH/USDT, BNB/USDT, DOT/USDT) with data persistence.
 - Clean, responsive interface for intuitive data visualization.
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
