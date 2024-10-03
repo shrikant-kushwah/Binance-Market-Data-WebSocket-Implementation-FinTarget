@@ -9,7 +9,11 @@ This project uses a WebSocket connection to Binance to retrieve real-time crypto
 - Easily switch between cryptocurrencies (ETH/USDT, BNB/USDT, DOT/USDT) with data persistence.
 - Clean, responsive interface for intuitive data visualization.
 
-
+## Technologies Used
+- Node.js
+- WebSocket (using Socket.IO)
+- React.js
+- Charting Library (like Chart.js)
 
 ## Available Scripts
 
